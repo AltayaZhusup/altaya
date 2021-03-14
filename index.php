@@ -6,8 +6,8 @@
  </head>
 <body>
 
-<h1>Altaya Jusup</h1>
-<h2>Web Developer</h2>
+<h1>Altaya Zhusup</h1>
+<h2>Style Preferenses</h2>
 <img src="1.jpg">
 
 </body>
