@@ -16,6 +16,7 @@
 <p>
 <a href="https://www.instagram.com/iamprincessbitches/">
 <img src="2.jpg">
+   down-sidebar {width:12;}
 </p>
 <p>
 </td>
