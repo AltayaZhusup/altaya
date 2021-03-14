@@ -5,6 +5,8 @@
  <link rel="stylesheet" type="text/css" href="style.css">
  </head>
 <body>
+ <p>
+  <a href="https://www.instagram.com/iamprincessbitches/"target="blank"><imf src="2.jpg""/></a>
 
 <h1>Altaya Zhusup</h1>
 <h2>Style Preferenses</h2>
