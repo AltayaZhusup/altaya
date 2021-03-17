@@ -11,6 +11,11 @@ body {
 *,
 *:before,
 *:after {
-	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
+.container {
+    width: 100%;
+ 	max-width: 1200px;
+ 	margin: 0 auto;
+ }
