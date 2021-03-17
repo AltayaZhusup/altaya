@@ -11,7 +11,7 @@
 
 	<div class="intro">
 	<div class="container">
-		<h1>Altaya Zhusup</h1>
+		<h1>Altaya</h1>
     </div>
 </div>
 
