@@ -7,9 +7,10 @@
 	<title>Altaya Zhusup</title>
 </head>
 <body>
-
-<div class="container">
-	<h1>Altaya</h1>
+<div class="intro">
+	<div class="container">
+		<h1>Altaya</h1>
+    </div>
 </div>
 
 </body>
