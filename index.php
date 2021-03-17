@@ -9,7 +9,21 @@
 </head>
 <body>
 
-	<div class="intro">
+<header class="header">
+	<div class="container">
+		<div class="header__inner">
+			<div class="header__logo">Altaya</div>
+
+			<nav>
+				<a class="nav__link" href="#">About</a>
+				<a class="nav__link" href="#">Contact</a>
+
+			</nav>
+		</div>
+	</div>
+</header>
+
+<div class="intro">
 	<div class="container">
 		<h1>Altaya</h1>
     </div>
