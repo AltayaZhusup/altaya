@@ -2,7 +2,8 @@
 <html>
 <head>
 	<link rel="stylesheet"  href="css/style.css">
-	<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
 	<title>Altaya Zhusup</title>
 </head>
 <body>
