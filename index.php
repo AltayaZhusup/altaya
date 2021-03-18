@@ -2,7 +2,7 @@
 <html lang="en,ru">
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="altaya/style.css"/>
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
 	<title>Altaya Zhusup</title>
@@ -25,8 +25,43 @@
 
 <div class="intro">
 	<div class="container">
-		<h1>Altaya</h1>
+		<div class="intro__inner">
+			<h1 class="intro__title">Altaya</h1>
+		</div>
     </div>
+</div>
+
+<footer class="footer">
+	<div class="container">
+
+<div class="footer_inner">
+	<div class="footer__col">
+		<div class="footer__logo">
+			<div class="footer__text">
+
+		<div class="footer__social">
+			<div class="footer__social__header">
+			</div>
+			<div class="footer__social__content">
+				Follow me:
+				<a href="#" target="_blank">
+					<i class="fab fa-instagram"></i>
+		</div>
+				
+			</div>
+		</div>
+	</div>
+		
+	
+</div>
+				
+			</a>
+			</a>
+		</div>
+	</div>
+</footer>
+		</a>
+	</div>
 </div>
 
 </body>
