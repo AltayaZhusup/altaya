@@ -1,0 +1,169 @@
+
+
+
+h1 , h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+
+.container {
+    width: 100%;
+ 	max-width: 1200px;
+ 	margin: 0 auto;
+ }
+
+
+ .intro {
+ 	display: flex;
+ 	flex-direction: column;
+ 	justify-content: center;
+ 	width: 100%;
+ 	height: 100vh;
+ 	background:
+ 	url("../img/intro.jpg") center no-repeat;
+ 	-webkit-background-size: cover;
+ 	background-size: cover;
+ }
+
+ .intro__inner {
+ 	width: 100%;
+ 	max-width: 900px;
+ 	margin: 0 auto;
+ }
+
+ .intro__title {
+ 	font-family: 'Kaushan Script', cursive;
+ 	color: #FF1493;
+ 	font-size: 150px;
+ 	font-weight: 30px;
+ 	text-transform: uppercase;
+ 	text-align: center;
+ 	line-height: 1;
+ }
+
+
+ .header {
+ 	width: 100%;
+ 	padding-top: 25px;
+
+	position: absolute;
+ 	top: 0;
+ 	left: 0;
+ 	right: 0;
+ 	z-index: 1000;
+ }
+
+ .header__inner {
+ 	display: flex;
+ 	justify-content: space-between;
+ 	align-items: center;
+ }
+
+ .header__logo {
+ 	font-family: 'Montserrat', sans-serif;
+ 	font-size: 30px;
+ 	font-weight: 700;
+ 	color: #fff;
+ }
+
+ .nav {
+ 	font-size: 14px;
+ 	text-transform: uppercase;
+ }
+
+ .nav__link {
+ 	display: inline-block;
+ 	vertical-align: top;
+ 	margin: 0 10px;
+ 	position: relative;
+
+ 	color: #fff;
+ 	text-decoration: none;
+
+ 	transition: color .2s linear;
+ }
+
+ .nav__link:after {
+ 	content: "";
+ 	display: block;
+ 	width: 100%;
+ 	height: 3px;
+ 	display: none;
+
+ 	background-color: #FF1493;
+
+ 	position: absolute;
+ 	top: 100%;
+ 	left: 0;
+ 	z-index: 1;
+ }
+
+ .nav__link:hover {
+ 	color: #FF1493;
+
+ }
+
+ .nav__link:hover:after {
+ 	display: block;
+ }
+
+ .footer {
+ 	padding-top: 65px;
+ 	background-color: #000000;
+
+ }
+
+
+ .footer__inner {
+ 	padding-bottom: 65px;
+
+ }
+
+ .footer__logo {
+ 	margin-bottom: 30px;
+
+ 	font-size: 46px;
+ 	font-weight: 700;
+ 	color: #FF1493;
+ }
+
+ .footer__text {
+ 	margin-bottom: 30px;
+
+ 	font-size: 15px;
+ 	color: 	#FF1493;
+ }
+
+ .footer__social {
+ 	margin-bottom: 25px;
+
+ }
+
+ .footer__social__header {
+ 	padding-top: 15;
+
+ 	font-size: 14px;
+ 	color: #000000;
+
+ 	border-bottom: 1px solid #e5e5e5;
+
+ }
+
+.footer__social__content {
+	padding-top: 15px;
+
+	font-size: 15px;
+	color: #FF1493;
+	font-weight: 300;
+
+}
+
+
+.footer__social__content a {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 10px;
+	font-size: 18px;
+	color: #FF1493
+}
+
+ }
