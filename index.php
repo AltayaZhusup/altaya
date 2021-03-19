@@ -3,7 +3,7 @@
 <head>
 	<title>altaiaiaia</title>
 	
-			<link rel="stylesheet" type="text/css" href="gh/style.css"/>
+			<link rel="stylesheet" type="text/css" href="style.css"/>
 
 		
 	
