@@ -17,7 +17,7 @@
 
 			<nav>
 				<a class="nav__link" href="https://www.youtube.com/">About</a>
-				<a class="nav__link" href="#">Contact</a>
+				<a class="nav__link" href="https://www.instagram.com/iamprincessbitches/">Contact</a>
 
 			</nav>
 		</div>
