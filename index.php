@@ -16,7 +16,7 @@
 			<div class="header__logo">Altaya</div>
 
 			<nav>
-				<a class="nav__link" href="https://www.youtube.com/">About</a>
+				<a class="nav__link" href="https://www.youtube.com/watch?v=_VRyoaNF9sk/">About</a>
 				<a class="nav__link" href="https://www.instagram.com/iamprincessbitches/">Contact</a>
 
 			</nav>
