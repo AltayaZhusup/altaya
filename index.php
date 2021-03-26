@@ -36,6 +36,7 @@ button {
   cursor: pointer;
   width: 100%;
   opacity: 0.9;
+  border-radius:50px;
 }
 button:hover {
   opacity:1;
