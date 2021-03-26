@@ -5,6 +5,10 @@
 body {font-family: Arial, Helvetica, sans-serif; background:pink ; color: white;}
 * {box-sizing: border-box}
 /* Full-width input fields */
+  
+  input {
+    border-radius:50px;
+  }
 input[type=text], input[type=password] {
   width: 100%;
   text-align: center;
