@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <style>
-body {font-family: Arial, Helvetica, sans-serif; background-image:url("img/bg.png") ; color: #ddd;}
+body {font-family: Arial, Helvetica, sans-serif; background:pink ; color: #ddd;}
 * {box-sizing: border-box}
 /* Full-width input fields */
 input[type=text], input[type=password] {
